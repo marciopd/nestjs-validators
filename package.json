@@ -1,6 +1,6 @@
 {
   "name": "nestjs-validators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides common Nest.js validators.",
   "main": "dist/index",
   "typings": "dist/index",
@@ -33,7 +33,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@nestjs/common": "~6.1.0",
+    "@nestjs/common": "6.6.7",
     "@nestjs/core": "~6.0.0",
     "class-transformer": "0.2.0",
     "class-validator": "0.9.1",
