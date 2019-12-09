@@ -1,6 +1,6 @@
 {
   "name": "nestjs-validators",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides common Nest.js validators.",
   "main": "dist/index",
   "typings": "dist/index",
